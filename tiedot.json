@@ -1,0 +1,9 @@
+{   
+    "yritys":"Web Development", "yhteystiedot":{"osoite":"Suunnittelutie 13, Helsinki",
+    "puhelin":"040 523 3569", "email": "info@WebDD.com"}, 
+    "tuotteet":["Web suunnittelu", "Graafinen suunnittelu", "Saavutettavuus"], 
+    "henkilokunta":[{"nimi":"Anna Virtanen","titteli":"projektipäällikkö"}, 
+                    {"nimi":"Mikko Laine","titteli":"web-kehittäjä"}, 
+                    {"nimi": "Saara Niemi","titteli":"graafikko"} 
+                ] 
+} 
