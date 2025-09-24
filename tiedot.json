@@ -1,0 +1,139 @@
+[
+  {
+    "otsikko": "JSON-datan käsittelyä",
+    "kuvaus": "Tällä sivustolle haetaan JSON-muotoista dataa",
+    "kuva": "https://jaakkola.github.io/json/digi.JPG",
+    "opintojakso": {
+      "nimi": "Digitekniikat",
+      "tunnus": "DIG4TA021",
+      "opintopisteet": 5
+    },
+    "sisalto": [
+      "low-code",
+      "sisällönhallintajärjestelmät",
+      "responsiivinen käyttöliittymä ja komponentit",
+      "tiedon haku julkisista palveluista rest-rajapinnan yli"
+    ],
+    "linkit": [
+      { "nimi": "Weebly", "url": "https://www.weebly.com/" },
+      { "nimi": "WordPress", "url": "https://wordpress.com/" },
+      { "nimi": "Bootstrap", "url": "https://getbootstrap.com/" },
+      { "nimi": "JSON", "url": "https://www.json.org/json-en.html" }
+    ],
+    "aiheet": [
+      { "aihe": "low-code", "linkki": "https://www.weebly.com/" },
+      { "aihe": "wordpress", "linkki": "https://wordpress.com/" },
+      { "aihe": "bootstrap", "linkki": "https://getbootstrap.com/" },
+      { "aihe": "JSON", "linkki": "https://www.json.org/json-en.html" }
+    ]
+  },
+  {
+    "otsikko": "Digitekniikat",
+    "kesto": "8 viikkoa",
+    "kappalemäärä": 5,
+    "osallistujat": ["Jaakko", "Seppo", "Liisa", "Tiina", "Kallie"],
+    "kuva": "https://www.vecteezy.com/photo/2073894-human-hands-using-computer-to-work-and-communicate"
+  },
+  {
+    "otsikko": "Sää Helsingissä",
+    "päivämäärä": "2025-09-24",
+    "lämpötila": { "ylin": 16, "alin": 9, "yksikkö": "°C" },
+    "säätila": "Puolipilvistä",
+    "tuuli": { "nopeus": 5, "yksikkö": "m/s", "suunta": "Lounas" },
+    "kuva": "https://openweathermap.org/img/wn/03d@2x.png",
+    "lähde": "https://openweathermap.org/"
+  },
+  {
+    "otsikko": "Poke haku",
+    "kuvaus": "Tällä sivulla haetaan Pokemoneja JSONin avulla.",
+    "kuva": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "pokemonHaku": [
+      "Mew",
+      "Eevee",
+      "Bulbasaur",
+      "Ivysaur",
+      "Venusaur",
+      "Charmander",
+      "Squirtle",
+      "Pikachu",
+      "Jigglypuff",
+      "Meowth"
+    ]
+  },
+  {
+    "fi": {
+      "otsikko": "Poke haku",
+      "kuvaus": "Tällä sivulla haetaan Pokemoneja JSONin avulla."
+    },
+    "en": {
+      "title": "Pokemon Search",
+      "description": "This page searches for Pokémon using JSON."
+    }
+  },
+  {
+    "pokemonit": [
+      {
+        "nimi": "Mew",
+        "tyyppi": "Psykinen",
+        "id": 151,
+        "kuva": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png"
+      },
+      {
+        "nimi": "Eevee",
+        "tyyppi": "Normaali",
+        "id": 133,
+        "kuva": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png"
+      },
+      {
+        "nimi": "Bulbasaur",
+        "tyyppi": "Ruohomyrkky",
+        "id": 1,
+        "kuva": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+      },
+      {
+        "nimi": "Ivysaur",
+        "tyyppi": "Ruohomyrkky",
+        "id": 2,
+        "kuva": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+      },
+      {
+        "nimi": "Venusaur",
+        "tyyppi": "Ruohomyrkky",
+        "id": 3,
+        "kuva": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+      },
+      {
+        "nimi": "Charmander",
+        "tyyppi": "Tuli",
+        "id": 4,
+        "kuva": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+      },
+      {
+        "nimi": "Squirtle",
+        "tyyppi": "Vesi",
+        "id": 7,
+        "kuva": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+      },
+      {
+        "nimi": "Pikachu",
+        "tyyppi": "Sähkö",
+        "id": 25,
+        "kuva": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+      },
+      {
+        "nimi": "Jigglypuff",
+        "tyyppi": "Normaalihalti",
+        "id": 39,
+        "kuva": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
+      },
+      {
+        "nimi": "Meowth",
+        "tyyppi": "Normaali",
+        "id": 52,
+        "kuva": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png"
+      }
+    ]
+  }
+]
+
+
