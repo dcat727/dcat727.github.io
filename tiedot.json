@@ -32,6 +32,7 @@
     "kesto": "8 viikkoa",
     "kappalemäärä": 5,
     "osallistujat": ["Jaakko", "Seppo", "Liisa", "Tiina", "Kallie"],
+    "päivämäärä": "13.1.-14.3.2025",
     "kuva": "https://www.vecteezy.com/photo/2073894-human-hands-using-computer-to-work-and-communicate"
   },
   {
@@ -135,5 +136,6 @@
     ]
   }
 ]
+
 
 
