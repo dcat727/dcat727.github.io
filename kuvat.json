@@ -1,0 +1,51 @@
+[
+  {
+    "src": "https://dcat727.github.io/main/api.jpg",
+    "alt": "API kuvaus",
+    "title": "Moderni layout",
+    "caption": "Web suunnittelu"
+  },
+
+  {
+    "src": "https://dcat727.github.io/main/digital.jpg",
+    "alt": "Markkinointi",
+    "title": "Kampanjamateriaali",
+    "caption": "B2B-sisältö ja visuaalinen ilme"
+  },
+  {
+    "src": "https://dcat727.github.io/main/graafinen suunnittelu1.jpg",
+    "alt": "Graafinen suunnittelu",
+    "title": "Kampanjamateriaali",
+    "caption": "B2B-sisältö ja visuaalinen ilme"
+  },
+  {
+    "src": "https://dcat727.github.io/main/graafinen suunnittelu3.jpg",
+    "alt": "Graafinen suunnittelu",
+    "title": "Kampanjamateriaali",
+    "caption": "B2B-sisältö ja visuaalinen ilme"
+  },
+  {
+    "src": "https://dcat727.github.io/main/marketing.jpg",
+    "alt": "Markkinointi",
+    "title": "Kampanjamateriaali",
+    "caption": "Markinoinnin kuvaus"
+  },
+  {
+    "src": "https://dcat727.github.io/main/services.jpg",
+    "alt": "Palvelut",
+    "title": "Kampanjamateriaali",
+    "caption": "Palveluiden kuvaus"
+  },
+  {
+    "src": "https://dcat727.github.io/main/suunnittelu1.jpg",
+    "alt": "Graafinen suunnittelu",
+    "title": "Kampanjamateriaali",
+    "caption": "B2B-sisältö ja visuaalinen ilme"
+  },
+  {
+    "src": "https://dcat727.github.io/main/web.jpg",
+    "alt": "Web Design Development kuvaus",
+    "title": "Kampanjamateriaali",
+    "caption": "Web Design kuvaus"
+  }
+]
